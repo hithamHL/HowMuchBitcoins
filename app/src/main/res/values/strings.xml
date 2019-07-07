@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">How Much</string>
+    
+   <string-array name="currency_array">
+       <item>AUD</item>
+       <item>CAD</item>
+       <item>CZK</item>
+       <item>ILS</item>
+       <item>USD</item>
+       <item>TRY</item>
+       <item>SGD</item>
+       <item>PLN</item>
+       <item>EUR</item>
+       <item>IDR</item>
+   </string-array>
+
+</resources>
